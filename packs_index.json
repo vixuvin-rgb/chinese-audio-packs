@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "totalBytes": 530354905,
+  "packs": [
+    {
+      "id": "pack01",
+      "file": "pack_01.zip",
+      "bytes": 52711100,
+      "sha256": "2b5594ace08024164598d707d67fc266488a76f809608d82df2b7ed302c6e0e6"
+    },
+    {
+      "id": "pack02",
+      "file": "pack_02.zip",
+      "bytes": 52679356,
+      "sha256": "62f4e1554fcde5a93e0a353f42edbf7e029765b9cfe80209ac2f4a4b64775580"
+    },
+    {
+      "id": "pack03",
+      "file": "pack_03.zip",
+      "bytes": 52953295,
+      "sha256": "9a6fcc81441e0f84d5a2a9876aac7eef7ebcc7a9913972be47385bb7a01ee50e"
+    },
+    {
+      "id": "pack04",
+      "file": "pack_04.zip",
+      "bytes": 52849209,
+      "sha256": "54080ba93f0e1b07b7aa92d01f7f456172db0d4904448a21bf850859145b5382"
+    },
+    {
+      "id": "pack05",
+      "file": "pack_05.zip",
+      "bytes": 52902644,
+      "sha256": "c2d0df16b0c1d98a8b7ab1a8334ef66df3c004daccb71faa8ef1f8fdc58f852b"
+    },
+    {
+      "id": "pack06",
+      "file": "pack_06.zip",
+      "bytes": 52906635,
+      "sha256": "7cc8a99f655374072653641a0c322eeaa2fedc611df79074742618d2ccabe6cc"
+    },
+    {
+      "id": "pack07",
+      "file": "pack_07.zip",
+      "bytes": 52776509,
+      "sha256": "8ceb32b1ead76081d6712e4f69b97e71f17a353871f5c323dbd679b7557677eb"
+    },
+    {
+      "id": "pack08",
+      "file": "pack_08.zip",
+      "bytes": 52762407,
+      "sha256": "54913b3938bfc442d82bf4337acd1e307c2ea8923a16bb0e49855a8379b30fa8"
+    },
+    {
+      "id": "pack09",
+      "file": "pack_09.zip",
+      "bytes": 52832880,
+      "sha256": "8bbbd34bf634e966a29242bcfea3decfa65483f408bf38a04288eba046a0acb1"
+    },
+    {
+      "id": "pack10",
+      "file": "pack_10.zip",
+      "bytes": 52888618,
+      "sha256": "eb3cd263d0e1b342447afdb1a72bfd4294ce0b8190d6b4af30036c327603c360"
+    },
+    {
+      "id": "pack11",
+      "file": "pack_11.zip",
+      "bytes": 17183121,
+      "sha256": "75b5c8bb6946fbef51e3c8e396c448be89e020c7ec8a3af55ad616530523c79c"
+    }
+  ]
+}
